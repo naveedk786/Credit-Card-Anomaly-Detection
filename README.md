@@ -1,6 +1,8 @@
 # Credit-Card-Anomaly-Detection
 BBDS Client Project
 ## Train an unsupervised model to detect potentially fraudulent credit card transactions.
-1.  Use an unsupervised algorithm to return a list of all anomalous transactions that may be worth investigating further.
-2.  Write a function that can be run every day to detect if any customer exceeds his/her monthly limit.
-3.  Return a list of customers who went over their monthly limit in the most recent month.
+1.  Anomaly Detection model for a client to detect fraudulent credit card transactions that can be applied as a Real Time application.
+2.  Additional tools were also developed to prevent credit card holders to exceed their credit limits.
+3.  Analyzed various anomaly detection techniques: Isolation Forest, Local Outlier Factor (LOF), Support Vector Machine (SVM) and compared them for the accuracy.
+4.  Performed Clustering analysis to analyze the trasnactions clusters.
+5.  Optimal anomaly detection technique was presented to the client along with key recommendations to enhance fraud detection capabilities and development of additional data features collection for future model enhancements.
